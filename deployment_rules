@@ -1,0 +1,6 @@
+gunicorn #in requirements.txt for heroku
+procfile
+requirements
+static_root #in settings.py at last
+whitenoise to serve static files in productioon #settings.py at two places
+Allowed hosts #settings.py
