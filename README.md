@@ -108,6 +108,7 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
+
 [<img target="_blank" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" width=170>](https://docs.djangoproject.com/en/3.0/) 
 [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
 
